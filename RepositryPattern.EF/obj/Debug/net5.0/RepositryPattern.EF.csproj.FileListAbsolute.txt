@@ -1,0 +1,72 @@
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.deps.json
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.json
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.dev.json
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.AssemblyReference.cache
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfoInputs.cache
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfo.cs
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CoreCompileInputs.cache
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.genruntimeconfig.cache
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.dll
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CopyComplete
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.deps.json
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.json
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.dev.json
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.dll
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.AssemblyReference.cache
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfoInputs.cache
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfo.cs
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CoreCompileInputs.cache
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CopyComplete
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\iti\Graduation Project\Generic Repo\code + unit of work\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.genruntimeconfig.cache
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.deps.json
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.json
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.dev.json
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.dll
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.pdb
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.AssemblyReference.cache
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfoInputs.cache
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfo.cs
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CoreCompileInputs.cache
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CopyComplete
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\Tasks\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.genruntimeconfig.cache
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.deps.json
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.json
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.runtimeconfig.dev.json
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.dll
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\bin\Debug\net5.0\RepositryPattern.Core.pdb
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.AssemblyReference.cache
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfoInputs.cache
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.AssemblyInfo.cs
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CoreCompileInputs.cache
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.csproj.CopyComplete
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.dll
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\ref\RepositryPattern.EF.dll
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.pdb
+G:\Science\Tasks\final server\RepositryPattern\RepositryPattern.EF\obj\Debug\net5.0\RepositryPattern.EF.genruntimeconfig.cache
